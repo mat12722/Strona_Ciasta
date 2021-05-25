@@ -1,0 +1,18 @@
+Umieszcz 4 zdjęcia z danego jedzenia
+
+Umieszcz w txt treść przepisu w tytule "Tresc(Nazwa Jedzenia)" np TrescBrownie
+
+Masło ucierać mikserem razem z cukrem przez około 6 - 7 minut. Dodać przesianą mąkę pszenną oraz mąkę ryżową. Miksować przez chwilę lub wygniatać ręką łącząc składniki w kulę. Zawinąć w folię i włożyć do lodówki na około 30 minut. Piekarnik nagrzać do 160 stopni C.
+Ciasto podzielić na 3 części i kolejno rozwałkowywać na placki o grubości około 3 mm, podsypując stolnicę mąką. Resztę ciasta trzymać w lodówce.
+Foremką wycinać kształty i układać na blasze wyłożonej papierem do pieczenia. Wstawić do nagrzanego piekarnika i piec przez 15 minut. Po ostudzeniu można polukrować i dekorować posypkami.
+
+Umieszcz w txt liste składników w tytule "Lista(Nazwa Jedzenia)" np ListaBrownie
+
+150 g miękkiego masła
+70 g miałkiego (drobnego) cukru do wypieków lub 50 g cukru pudru
+150 g  mąki pszennej tortowej
+75 g mąki ryżowej lub mąki ziemniaczanej
+
+Dodaj tutaj link danego jedzenia
+
+Link: https://www.kwestiasmaku.com/kuchnia_polska/wigilia/ciastka_choinki/przepis.html

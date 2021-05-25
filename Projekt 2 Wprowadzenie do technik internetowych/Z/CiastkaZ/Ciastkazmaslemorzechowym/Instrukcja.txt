@@ -1,0 +1,26 @@
+Umieszcz 4 zdjęcia z danego jedzenia
+
+Umieszcz w txt treść przepisu w tytule "Tresc(Nazwa Jedzenia)" np TrescBrownie
+
+Masło, masło orzechowe i jajko ocieplić w temperaturze pokojowej. Dużą blachę (np. z wyposażenia piekarnika) wyłożyć papierem do pieczenia. Piekarnik nagrzać do 175 stopni C.
+Do miski włożyć miękkie masło, masło orzechowe i cukier trzcinowy. Ubijać przez ok. 5 minut aż masa będzie jaśniejsza i bardziej puszysta. Dodać jajko, wanilię i ubijać jeszcze przez ok. 3 minuty.
+W oddzielnej misce wymieszać mąkę pszenną z sodą, proszkiem do pieczenia i solą. Mieszankę wsypać do ubitej masy i wymieszać łyżką lub krótko zmiksować na jednolitą masę. Dodać kropelki czekolady i delikatnie wymieszać.
+Wykładać na blaszkę z zachowaniem odstępów. Można wykładać masę za pomocą łyżki do lodów (1 łyżka) lub zwykłą łyżką stołową (2 łyżki), bez uklepywania masy, na blaszce masa ma mieć kształt półkuli lub kapelusza grzyba, podczas pieczenia rozejdzie się na boki.
+Wstawić do nagrzanego piekarnika i piec przez ok. 15 minut, aż na obrzeżach i na wierzchu ciasteczka będą już wypieczone, ale w środku będą jeszcze delikatnie miękkie. Dopiero po ostudzeniu bardziej stwardnieją i zastygną.
+
+Umieszcz w txt liste składników w tytule "Lista(Nazwa Jedzenia)" np ListaBrownie
+
+100 g masła
+120 g masła orzechowego
+150 g cukru trzcinowego
+1 jajko
+1 łyżeczka ekstraktu wanilinowego lub 1 łyżka cukru wanilinowego
+170 g mąki
+2/3 łyżeczki sody oczyszczonej
+2/3 łyżeczki proszku do pieczenia
+mała szczypta soli morskiej
+50 g kropelek czekoladowych lub pokrojonej czekolady
+
+Dodaj tutaj link danego jedzenia
+
+Link: https://www.kwestiasmaku.com/przepis/ciasteczka-z-maslem-orzechowym-i-kawalkami-czekolady

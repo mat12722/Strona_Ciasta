@@ -1,0 +1,23 @@
+Umieszcz 4 zdjęcia z danego jedzenia
+
+Umieszcz w txt treść przepisu w tytule "Tresc(Nazwa Jedzenia)" np TrescBrownie
+
+Piekarnik nagrzać do 150 stopni C. Do miski wsypać mielone migdały, mąkę oraz sodę oczyszczoną, wymieszać. Dodać płatki owsiane, wiórki kokosowe oraz mieszankę rodzynek i żurawiny, wymieszać.
+W rondelku roztopić masło z miodem oraz z 1 łyżką wody. Przelać do miski z sypkimi składnikami i dokładnie wymieszać.
+Z powstałej masy ulepić kulki (ok. 3 cm średnicy) następnie spłaszczyć je i uformować kształt dysku (średnica ok. 4 cm i grubość 1,5 cm). Ułożyć na blaszce wyłożonej papierem do pieczenia z zachowaniem odstępów.
+Wstawić do piekarnika i piec przez 15 minut.**
+
+Umieszcz w txt liste składników w tytule "Lista(Nazwa Jedzenia)" np ListaBrownie
+
+3/4 szklanki mielonych migdałów lub zmielonych płatków migdałów
+1/2 szklanki mąki pszennej lub ryżowej
+1/2 łyżeczki sody oczyszczonej
+1 szklanka płatków owsianych*
+1/2 szklanki wiórków kokosowych
+ok. 80 g mieszanki drobnych rodzynek i suszonej żurawiny
+125 g masła lub oleju kokosowego
+3 łyżki miodu
+
+Dodaj tutaj link danego jedzenia
+
+Link: https://www.kwestiasmaku.com/desery/ciasteczka/ciasteczka_owsiane/przepis.html

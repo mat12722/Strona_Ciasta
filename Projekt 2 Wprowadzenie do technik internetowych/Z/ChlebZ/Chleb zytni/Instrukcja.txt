@@ -1,0 +1,23 @@
+Umieszcz 4 zdjęcia z danego jedzenia
+
+Umieszcz w txt treść przepisu w tytule "Tresc(Nazwa Jedzenia)" np TrescBrownie
+Formę keksową o długości 30 cm wysmarować dobrze masłem. Odstawić na bok.
+Ziarna słonecznika podprażyć chwilę na suchej patelni, aż zaczną pachnieć. Następnie przełożyć do miski i zalać bardzo zimną wodą. (Wody dodać na oko, więcej niż do przykrycia ziaren). Odstawić na bok.
+W innej misce wymieszać wodę (podaną w składnikach) z zakwasem, aż się w wodzie rozpuści.
+W dużej misce wymieszać mąki żytnie z solą. Dodać wodę z zakwasem i zagnieść ciasto (polecam robotem kuchennym), tylko do momentu, aż mąka połączy się z wodą. (Nie trzeba ciasta wyrabiać długo. Tylko do momentu połączenia się składników).
+Ziarna słonecznika odsączyć na sitku i dodać do zagniecionego ciasta. Jeszcze raz zagnieść, aby słonecznik równomiernie rozłożył się w cieście.
+Ciasto przełożyć do formy i wyrównać jego powierzchnię np. tylną stroną łyżki zamoczonej w wodzie lub zwilżonymi rękami.
+Przykryć lnianą ściereczką i odstawić w ciepłe miejsce do wyrośnięcia na ok. 12 godzin. (Czas wyrastania zależy od temperatury otoczenia oraz od tego, jak bardzo aktywny jest zakwas. U mnie temperatura pomieszczenia wynosiła 24 stopnie). Chleb jest gotowy, gdy wypełni formę. (Ważne, aby nie przerósł. Przerośnięte ciasto zapadnie się pośrodku. Dlatego należy zaglądać do chleba).
+Przed pieczeniem spryskać chleb zimną wodą.
+Piec w nagrzanym piekarniku ok. 60 minut w temperaturze 200°C, grzałka góra- dół.
+Gotowy chleb wyciągnąć z piekarnika, przełożyć na kratkę kuchenną i pozostawić do całkowitego ostygnięcia.
+Umieszcz w txt liste składników w tytule "Lista(Nazwa Jedzenia)" np ListaBrownie
+100 g ziaren słonecznika
+25 g aktywnego zakwasu żytniego
+275 g mąki żytniej razowej typ 2000
+275 g mąki żytniej typ 1150
+18 g soli
+520 g letniej wody
+Dodaj tutaj link danego jedzenia
+
+Link: https://www.domowe-wypieki.pl/przepisy/pieczywo/chleby/1177-chleb-zytni-ze-slonecznikiem-na-zakwasie

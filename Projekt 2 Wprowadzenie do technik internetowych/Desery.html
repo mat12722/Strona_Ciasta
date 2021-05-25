@@ -1,0 +1,234 @@
+﻿<!DOCTYPE html>
+
+<html lang="pl">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>desery</title>
+    <link rel="stylesheet" href="CSS/StylePodstrony.css">
+    
+</head>
+
+<body>
+    <header>
+        <a style="text-decoration: none;  color: inherit; border: 0; " href="Główny.html">
+            <h1>
+                <img src="Z/Ikonki/I-Deser.png" alt="Nie ma" style="width: 75px;height: 75px;" />
+                Desery
+                <img src="Z/Ikonki/I-Deser.png" alt="Nie ma" style="width: 75px;height: 75px;" />
+            </h1>
+        </a>
+        <nav>
+            <a style="text-decoration: none; color: inherit; border: 0;" href="Ciasta.html" id="C1">Ciasta </a>
+            <a style="text-decoration: none; color: inherit; border: 0;" href="Ciastka.html" id="C2">Ciastka</a>
+            <a style="text-decoration: none; color: inherit; border: 0;" href="Desery.html" id="C3">Desery</a>
+            <a style="text-decoration: none; color: inherit; border: 0;" href="Pieczywo.html" id="C4">Chleb</a>
+        </nav>
+    </header>
+    <div id="Menu">
+        <section id="GP">
+            <img src="Z/Ikonki/chleb.jpg" alt="Nie ma obrazka" id="ZPrawo" onclick="PrzejscieNaPrawo()">
+            <p id="strzalka1" onclick="PrzejscieNaPrawo()"></p>
+        </section>
+        <article>
+            <h3 id="T"></h3>
+
+
+            <div id="P">
+                <center>
+                    <div id="Galeria">
+                        <a class="Poprzedni" onclick="Back(-1)">&#8592;</a>
+                        <a class="Nastepny" onclick="Next(1)">&#8594;</a>
+                        <div id="ZdjeciaG">
+                            <img id="Zd" src="" style="transform:translate(0, 0);width:500px;height:300px" />
+                        </div>
+                    </div>
+                    <nav>
+
+                        <div style="display: inline-flex">
+                            <div class="my-button-wrapper">
+                                <input class="my-skin-style" type="button" value="Przepis" onclick="OpenP()" />
+                                <div class='my-button-icon'></div>
+                            </div>
+                            <div style="opacity:0">
+                                2137
+                            </div>
+                            <div class="my-button-wrapper">
+                                <input class="my-skin-style" type="button" value="Ankieta" onclick="OpenA()" />
+                                <div class='my-button-icon'></div>
+                            </div>
+
+                        </div>
+
+
+                    </nav>
+                    <table>
+                        <tr>
+                            <th scope="col" style="width: 50%;background: rgb(241,211,141); background: linear-gradient(90deg, rgba(241,211,141,1) 42%, rgba(238,236,216,1) 78%);">Treść</th>
+                            <th scope="col" style="background: rgb(241,211,141);background: linear-gradient(90deg, rgba(238,236,216,1) 42%, rgba(241,211,141,1) 78%);">Lista Składników</th>
+                        </tr>
+                        <tr>
+                            <td style="width: 50%;background: rgb(241,211,141);background: linear-gradient(90deg, rgba(241,211,141,1) 42%, rgba(238,236,216,1) 78%);" id="TrescPrzepisu">
+                            </td>
+                            <td style="background: rgb(241,211,141); background: linear-gradient(90deg, rgba(238,236,216,1) 42%, rgba(241,211,141,1) 78%);">
+                                <ul id="ListaPrzepis">
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <br />
+                    <a style="text-decoration: none; border: 0;" id="LinkPrzepisy" href="">Kliknij tu aby otworzyć strone z przepisem</a>
+                    <br />
+                    <p style="font-family: Arial; font-size: 30px;"><strong>Potrzebny czas  do pieczenia:</strong></p>
+                    <p>Czasomierz, który odlicza potrzebny czas pieczenia. Wybierz dźwięk, a następnie włącz zegar. </p>
+                    <div>
+                        <label class="container">
+                            <input checked onchange="getValue(this)" name="drone" id="music0" type="radio" value="music0" />Bez dźwięku
+                            <span class="checkmark"></span>
+                        </label>
+                        <label class="container">
+                            <input onchange="getValue(this)" name="drone" id="music1" type="radio" value="music1" />Dźwięk 1
+                            <span class="checkmark"></span>
+                        </label>
+                        <label class="container">
+                            <input onchange="getValue(this)" name="drone" id="music2" type="radio" value="music2" />Dźwięk 2
+                            <span class="checkmark"></span>
+                        </label>
+                        <label class="container">
+                            <input onchange="getValue(this)" name="drone" id="music3" type="radio" value="music3" />Dźwięk 3
+                            <span class="checkmark"></span>
+                        </label>
+                        <label class="container">
+                            <input onchange="getValue(this)" name="drone" id="music4" type="radio" value="music4" />Dźwięk 4
+                            <span class="checkmark"></span>
+                        </label>
+                    </div>
+                    <br />
+
+                    <div style="display: inline-flex;">
+                        <div class="my-button-wrapper">
+                            <input id="buttonZ" class="my-skin-style" type="button" value="Włącz zegar" onclick="startTimer(WyborMuzyki())" />
+                            <div class='my-button-icon'></div>
+                        </div>
+                        <div style="opacity: 0;">
+                            2137
+                        </div>
+                        <div class="my-button-wrapper">
+                            <input class="my-skin-style" type="button" value="Reset zegara" onclick="ResetCzasu()" />
+                            <div class='my-button-icon'></div>
+                        </div>
+                    </div>
+                    <div>
+                        <strong><span style="font-size: 25px" id=displayTime></span></strong>
+                        <strong><span style="font-size: 25px" id="displayTime3"></span></strong>
+                        <strong><span style="font-size: 25px" id=displayTime2></span></strong>
+                    </div>
+
+
+
+                    <audio id="song1" src="Z/Dzwieki/dzwiek.mp3" preload="auto"></audio>
+                    <audio id="song2" src="Z/Dzwieki/deszcz.mp3" preload="auto"></audio>
+                    <audio id="song3" src="Z/Dzwieki/birb.mp3" preload="auto"></audio>
+                    <audio id="song4" src="Z/Dzwieki/storm.mp3" preload="auto"></audio>
+                    <p id="demo"></p>
+                    <img style="width: 50%; height: 50%;" id="pics" src="Z/Ikonki/Ckolo.png"><img>
+                    <p id="nazwaciasta" style="font-family:Arial; font-size: 25px; font-weight: bold;"></p>
+                </center>
+            </div>
+            <div id="A">
+                <nav>
+
+                    <div style="display: inline-flex">
+                        <div class="my-button-wrapper">
+                            <input class="my-skin-style" type="button" value="Przepis" onclick="OpenP()" />
+                            <div class='my-button-icon'></div>
+                        </div>
+                        <div style="opacity:0">
+                            2137
+                        </div>
+                        <div class="my-button-wrapper">
+                            <input class="my-skin-style" type="button" value="Ankieta" onclick="OpenA()" />
+                            <div class='my-button-icon'></div>
+                        </div>
+
+                    </div>
+
+
+                </nav>
+                <p>Jak oceniasz dany przepisy</p>
+                <div style="display:flex; place-content:center">
+                    <img src="" alt="Nie ma" class="gwiazdki" onmousemove="Obecnosc(0)" onmouseout="Puste()" onclick="Blokada()" />
+                    <img src="" alt="Nie ma" class="gwiazdki" onmousemove="Obecnosc(1)" onmouseout="Puste()" onclick="Blokada()" />
+                    <img src="" alt="Nie ma" class="gwiazdki" onmousemove="Obecnosc(2)" onmouseout="Puste()" onclick="Blokada()" />
+                    <img src="" alt="Nie ma" class="gwiazdki" onmousemove="Obecnosc(3)" onmouseout="Puste()" onclick="Blokada()" />
+                    <img src="" alt="Nie ma" class="gwiazdki" onmousemove="Obecnosc(4)" onmouseout="Puste()" onclick="Blokada()" />
+                </div>
+                <p>Jak ocenia pan/pani wykonane przez siebie danie?</p>
+                <nav>
+
+                    <label class="container">
+                        <input onclick="Wybur(0)" class="op" id="op0" type="radio" />Przepyszne
+                        <span class="checkmark"></span>
+                    </label>
+                    <label class="container">
+                        <input onclick="Wybur(1)" class="op" id="op1" type="radio" />Dobre
+                        <span class="checkmark"></span>
+                    </label>
+                    <label class="container">
+                        <input onclick="Wybur(2)" class="op" id="op2" type="radio" />Jadalne
+                        <span class="checkmark"></span>
+                    </label>
+                    <label class="container">
+                        <input onclick="Wybur(3)" class="op" id="op3" type="radio" />Paskudne
+                        <span class="checkmark"></span>
+                    </label>
+                </nav>
+                <p>Opinia</p>
+                <textarea id="Tekstopinia" cols="40" rows="20" style="resize: none;"></textarea>
+                <br /><br />
+                <nav>
+
+                    <div style="display: inline-flex">
+                        <div class="my-button-wrapper">
+                            <input class="my-skin-style" type="button" value="Wyślij Ankiete" onclick="Informacja()" />
+                            <div class='my-button-icon'></div>
+                        </div>
+                        <div style="opacity:0">
+                            2137
+                        </div>
+                        <div class="my-button-wrapper">
+                            <input class="my-skin-style" type="button" value="Reset Ankiety" onclick="ResetDanych()" />
+                            <div class='my-button-icon'></div>
+                        </div>
+
+                    </div>
+
+
+                </nav>
+            </div>
+        </article>
+        <section style="margin-left:400px">
+            <img src="Z/Ikonki/ciastko.jpg" alt="Nie ma obrazka" id="ZLewo" onclick="PrzejscieNaLewo()">
+            <p id="strzalka" onclick="PrzejscieNaLewo()"></p>
+        </section>
+    </div>
+    <footer>
+        <a style="z-index: 1;position: relative;border: 0;" href="Ciasta.html"><img src="Z/Ikonki/I-Ciasto.png" alt="Nie ma" /></a>
+        <a style="z-index: 1;position: relative;border: 0;" href="Ciastka.html"><img src="Z/Ikonki/I-Ciastka.png" alt="Nie ma" /></a>
+        <a style="z-index: 1;position: relative;border: 0;" href="Desery.html"><img src="Z/Ikonki/I-Deser.png" alt="Nie ma" /></a>
+        <a style="z-index: 1;position: relative;border: 0;" href="Pieczywo.html"><img src="Z/Ikonki/I-Chleb.png" alt="Nie ma" /></a>
+    </footer>
+    <script src="JS/PDesery.js" type="text/javascript"></script>
+    <script src="JS/Gwiazdki.js" type="text/javascript"></script>
+    <script src="JS/Radio.js" type="text/javascript"></script>
+    <script src="JS/Zegar.js" type="text/javascript"></script>
+    <script>
+        function Informacja() {
+            alert("Formularz został wysłany");
+            var w = document.getElementsByClassName("q");
+            for (var i = 0; i < w.length; i++) { w[i].checked = false; }
+            location.reload();
+        }
+    </script>
+</body>
+</html>

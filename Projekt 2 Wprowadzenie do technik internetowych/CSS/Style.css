@@ -1,0 +1,95 @@
+﻿body {
+    background: rgb(251,236,63);
+    background: radial-gradient(circle, rgba(251,236,63,1) 0%, rgba(158,70,252,1) 100%);
+    overflow-x:hidden;
+}
+
+h1 {
+    text-align: center;
+    font-size: 400%;
+    margin: auto;
+    font-family: Arial;
+    z-index: 1;
+    position: relative;
+}
+
+main {
+    margin-top: 5%;
+    display: inline-flex;
+    text-align: center;
+    overflow: auto;
+}
+
+@media only screen and (max-width:1300px) {
+    main {
+        display: block;
+        overflow: visible;
+        margin-left: 200px;
+    }
+}
+
+section {
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 2rem;
+    text-align: center;
+    border: 1px solid black;
+    height: 500px;
+    width: 250px;
+    
+}
+    section img {
+        width: 250px;
+        height: 500px; 
+        object-fit: cover; 
+        border-radius: 2rem;
+    }
+
+article {
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 2rem;
+    height: 500px;
+    min-width: 550px;
+    max-width: 250px;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+nav {
+    margin-top: 5%;
+    font-size: 40px;
+    font-family: Arial;
+    z-index: 1;
+    position: relative;
+    
+}
+
+a {
+    margin: 100px;
+    border: 1px solid black;
+}
+
+footer {
+    margin-top: auto;
+    text-align: center;
+    display: block;
+}
+
+    footer img {
+        height: 100px;
+        width: 100px;
+        margin: 70px;
+        z-index: 1;
+        position: relative;
+    }
+   
+/* #C1 {
+            background-image: url(Z/Ikonki/I-Czekoladak.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }*/
+/*.IkonkaN {
+   
+}*/

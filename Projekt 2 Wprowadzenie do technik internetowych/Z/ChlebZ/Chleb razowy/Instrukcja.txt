@@ -1,0 +1,31 @@
+Umieszcz 4 zdjęcia z danego jedzenia
+
+Umieszcz w txt treść przepisu w tytule "Tresc(Nazwa Jedzenia)" np TrescBrownie
+
+Mąkę przesiać do dużej miski (dodać otręby zgromadzone na sitku po przesianiu mąki razowej), dodać sól, pokruszone drożdże i wszystko wymieszać łyżką. 
+Wlać wodę i wymieszać składniki łyżką (krótko, do połączenia się składników, przez około pół minuty). Miskę z ciastem przykryć talerzem lub folią i odstawić do wyrośnięcia na około 14 godzin (minimum 12 godzin), 
+najlepiej na noc (w temperaturze pokojowej, np. na blacie kuchennym).
+Stolnicę oprószyć białą mąką i wyłożyć ciasto. Złożyć ciasto trzy lub cztery razy, za każdym razem na pół (ciasto będzie dość rzadkie i nie utworzy kształtnej kulki).
+Na blacie kuchennym położyć czystą ściereczkę kuchenną, oprószyć ją mąką razową i położyć w to miejsce złożone ciasto łączeniem do dołu. 
+Przykryć ciasto wystającymi bokami ściereczki i zostawić w ciepłym miejscu w kuchni na 1 - 2 godziny do podwojenia objętości.
+Na pół godziny przed końcem wyrastania nagrzać piekarnik do 240 - 250 stopni C, ustawiając kratkę w dolnej 1/3 części piekarnika. 
+Na kratce ustawić przykryty garnek żaroodporny np. żeliwny emaliowany i nagrzewać go razem z piekarnikiem.
+Ostrożnie, używając rękawic kuchennych, wyjąć gorący garnek z piekarnika i zdjąć pokrywę. 
+Umieścić ciasto w garnku (zsunąć ze ścierki, uważając aby nie przysypać chleba zbyt dużą ilością mąki) lub szybko i ostrożnie przenieść chleb do garnka w oprószonych mąką dłoniach). 
+Należy uważać, bo garnek będzie bardzo gorący. Garnek przykryć i piec przez 30 minut. Zdjąć pokrywę i piec dalej aż chleb będzie dobrze zrumieniony ale nie przypalony przez 15 - 30 minut 
+(zwykle piekę 20 minut, po 5 minutach pieczenia licząc od zdjęcia pokrywy kładę na chlebie kawałek folii aluminiowej, aby wierzch się nie przypalił i był idealnie zrumieniony).
+Wyjąć garnek z chlebem z piekarnika, otworzyć, po kilku minutach wyjąć chleb go z garnka i odłożyć na metalową kratkę do całkowitego ostudzenia. Pokroić po ostudzeniu. Z czerstwego chleba można zrobić pyszne grzanki z tostera.
+Umieszcz w txt liste składników w tytule "Lista(Nazwa Jedzenia)" np ListaBrownie
+
+300 g mąki
+100 g mąki razowej
+1 i 1/2 łyżeczki soli
+20 g świeżych drożdży (lub 1 łyżeczka suchych drożdży)
+300 g chłodnej wody
+mąka razowa lub otręby do obsypania chleba
+białej mąki pszennej lub orkiszowej (uniwersalnej, tortowej typ 500 lub 700, ale najlepiej chlebowej typ 850)
+mąki razowej pszennej lub orkiszowej np. typ 1850
+
+Dodaj tutaj link danego jedzenia
+
+Link: https://www.kwestiasmaku.com/domowa_piekarnia/chleb_razowy/przepis.html

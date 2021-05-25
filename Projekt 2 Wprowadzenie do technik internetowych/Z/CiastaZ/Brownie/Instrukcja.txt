@@ -1,0 +1,22 @@
+Umieszcz 4 zdjęcia z danego jedzenia
+
+Umieszcz w txt treść przepisu w tytule "Tresc(Nazwa Jedzenia)" np TrescBrownie
+
+Do garnka włożyć pokrojone masło i zacząć podgrzewać na małym ogniu. Gdy będzie w połowie roztopione dodać 150 g połamanej na kosteczki czekolady i mieszając roztopić. Odstawić z ognia.
+Piekarnik nagrzać do 180 stopni C. Jajka ubijać z dodatkiem cukru przez ok. 5 - 7 minut na puszystą masę (kogel-mogel).
+Dodać do nich masę czekoladową i wymieszać na jednolitą masę. Wsypać mąkę, proszek do pieczenia (oraz kakao jeśli używamy) i ponownie wymieszać.
+Dodać resztę czekolady (50 g) pokrojonej w kosteczkę oraz posiekane orzechy jeśli ich używamy. Wymieszać i wstawić na 10 minut do zamrażarki.
+Dużą blachę z wyposażenia piekarnika wyłożyć papierem do pieczenia.
+Nabierać po łyżce masy i wykładać ją na blaszkę z zachowaniem odstępów. Piec przez 10 minut. Podczas wyjmowania z piekarnika ciasteczka mają być miękkie w środku, zastygną po ostudzeniu.
+
+Umieszcz w txt liste składników w tytule "Lista(Nazwa Jedzenia)" np ListaBrownie
+60 g masła
+200 g gorzkiej czekolady lub ewentualnie lekko gorzkiej (deserowej 50% kakao)
+2 jajka (temp. pokojowa)
+150 g cukru
+50 g mąki pszennej
+1/4 łyżeczki proszku do pieczenia
+opcjonalnie: 50 g orzechów (np. pekan lub włoskich) i 1 łyżka kakao
+Dodaj tutaj link danego jedzenia
+
+Link: https://www.kwestiasmaku.com/przepis/ciasteczka-brownie
